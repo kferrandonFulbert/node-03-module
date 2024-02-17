@@ -1,6 +1,6 @@
 /**
 @author kevin ferrandon <kevin.ferrandon@lyceefulbert.fr>
-@version 1.0.0
+@version 0.0.1
 **/
 class debug {
     constructor() {  }
