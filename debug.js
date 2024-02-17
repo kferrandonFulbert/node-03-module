@@ -1,8 +1,9 @@
+/**
+@author kevin ferrandon <kevin.ferrandon@lyceefulbert.fr>
+@version 1.0.0
+**/
 class debug {
-    constructor() {
-        this.author="kferrandon";
-        this.version = '1.0.0';
-    }
+    constructor() {  }
     log(msg) {
         console.log(msg);
     }
